@@ -21,7 +21,6 @@
     "test": "mocha"
   },
   "dependencies": {
-    "expand-reflinks": "^0.2.1",
     "lazy-cache": "^2.0.1",
     "list-item": "^1.1.1",
     "markdown-utils": "^0.7.3",
@@ -61,13 +60,6 @@
         "prettify-markdown",
         "remarkable"
       ]
-    },
-    "reflinks": [
-      "verb",
-      "verb-readme-generator"
-    ],
-    "lint": {
-      "reflinks": true
     }
   }
 }
